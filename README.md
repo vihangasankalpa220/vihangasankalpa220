@@ -1,7 +1,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Vihanga%20Sankalpa-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/vihanga-sankalpa-a0886119b/)](https://www.linkedin.com/in/vihanga-sankalpa-a0886119b/) [![Twitter Badge](http://img.shields.io/badge/-@vihangasankalpa-1ca0f1?style=social&logo=twitter&logoColor=blue&link=hthttps://www.linkedin.com/in/vihanga-sankalpa-a0886119b/)](https://twitter.com/vihangasankalpa220)  [![Facebook Badge](http://img.shields.io/badge/-@vihangasankalpa-1ca0f1?style=social&logo=facebook&logoColor=blue&link=https://www.facebook.com/public/Vihanga-Sankalpa)](https://www.facebook.com/public/Vihanga-Sankalpa) [![Gmail Badge](https://img.shields.io/badge/-vihangasankalpa-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:vihangasankalpa220@gmail.com)](mailto:vihangasankalpa220@gmail.com) 
 
 
-- 👋 Hi, I’m @vihangasankalpa
+- 👋 Hi, I’m vihangasankalpa
 - 👀 I'm an Enthusiast in cloud computing, DevOps, and design aesthetics
 - 🌱 I’m currently an undergraduate at SLIIT campus malabe Sri lanka
 - 💞️ I’m looking to collaborate and continue practicing and expanding my skill set and knowledge base to attain the success of the company and to grow in a fast-developing field.
